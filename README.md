@@ -1,11 +1,9 @@
 <div align="center">
   <h1>Hi 👋, I'm Gaurav Roy!</h1>
-  <h3> <img src="https://readme-typing-svg.herokuapp.com?color=FF6D60&lines=React+JS+Developer+%3A)" /> </h3>
+  <h3> <img src="https://readme-typing-svg.herokuapp.com?color=9b7bb6&lines=React+JS+Developer+%3A)" /> </h3>
 </div>
 
-  <div id="header" >
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
-</div>
+
   <div >
 <img src="https://komarev.com/ghpvc/?username=GauravRoy-20&style=flat-square&color=blue" alt="GauravRoy-20"/>
 </div>
