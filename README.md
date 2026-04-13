@@ -1,73 +1,110 @@
 <div align="center">
   <h1>Hi 👋, I'm Gaurav Roy!</h1>
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?color=008080&lines=React+Native+and+Next.js+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=008080&lines=Frontend+%26+Mobile+App+Developer;React+Native+%7C+Next.js+%7C+React.js+Engineer" />
   </h3>
 </div>
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=GauravRoy-20&style=flat-square&color=blue" alt="GauravRoy-20"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GauravRoy-20&style=flat-square&color=blue" alt="profile views"/>
 </div>
 
 ---
 
-### Connect with me:
+## 🚀 About Me
+
+Frontend & Mobile Application Developer with **4+ years of experience** building scalable, production-ready apps using **React.js, Next.js, and React Native**.
+
+I specialize in:
+- Real-time applications (WebSockets / Socket.io)
+- Firebase integrations (Auth, Firestore, FCM)
+- Payment gateway integrations (Stripe, PayPal, Razorpay, Mangopay)
+- App Store & Play Store deployments
+
+- 🌱 Currently exploring advanced Next.js & system architecture
+- 👯 Open to collaborate on web & mobile projects
+- 💬 Ask me about React Native, Next.js, Firebase, APIs
+- 📫 Reach me at: **gauravroy20.gr@gmail.com**
+- 📍 Location: Noida, India
+
+---
+
+## 📞 Connect with me
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/gauravroy20/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/gauravroy20">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:gauravroy20.gr@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+
+  <a href="mailto:gauravroy20.gr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.instagram.com/gauravroy.dev/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+
+  <a href="https://github.com/GauravRoy-20">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
 ---
 
-### :man_technologist: About Me :
+## 🧠 Skills
 
-I’m a React Native developer with 3.5 years of experience building smooth, user-friendly mobile apps for both Android and iOS. I also work with React.js and Next.js for web development, bringing seamless cross-platform experiences.
+**Frontend**
+React.js • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind
 
-Alongside these, I have basic knowledge of Flutter and Dart to keep up with new trends in mobile app development.
+**Mobile**
+React Native • Deep Linking • App Store / Play Store Publishing
 
-- 🌱 Currently diving deeper into React Native and Next.js ecosystems  
-- 👯 Open to collaborate on React Native and web projects  
-- 💬 Ask me anything about React Native, React.js, or mobile app integrations  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gauravroy20/)  
-- 😄 Pronouns: He/His
+**State Management**
+Redux • Zustand • Context API • React Hooks
 
-### :hammer_and_wrench: Languages and Tools :
+**APIs & Backend Integration**
+REST APIs • Axios • React Query • WebSockets • Socket.io
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart (basic)" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter (basic)" alt="Flutter" width="40" height="40"/>&nbsp;
-</div>
+**Authentication & Security**
+JWT • OAuth 2.0 • RBAC • Secure Token Handling
+
+**Realtime & Backend Services**
+Firebase Auth • Firestore • FCM Notifications
+
+**Payments**
+Stripe • PayPal • Razorpay • Mangopay
+
+**Tools**
+Git • GitHub • Postman • Jira • VS Code • Android Studio • Xcode
 
 ---
 
-### :fire: My Stats :
+## 💼 Experience
+
+**Software Developer — MobileCoderz Pvt. Ltd. (2022 – Present)**
+- Built 10+ production apps (React + React Native + Next.js)
+- Implemented real-time features using WebSockets & Socket.io
+- Integrated Firebase Auth, Firestore, and Push Notifications
+- Delivered multiple payment gateway integrations
+- Published apps on Play Store & App Store
+
+---
+
+## 📌 Featured Projects
+
+- 🛒 My Pet Corner — Marketplace App (React Native + Firebase)
+- 🌐 WEFUNDUS — E-Commerce + Chat Platform (Next.js + Socket.io + Stripe)
+- 🏥 Tray Tracker — Hospital Asset Tracking System
+- 🛡 i2o Retail — Brand Protection Dashboard
+- 🪙 Gold Trading App — Real-time investment platform
+
+---
+
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
      <td>
-       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravRoy-20&theme=dark" alt="GauravRoy-20" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravRoy-20&theme=dark"/>
      </td>
      <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravRoy-20&show_icons=true&theme=dark&locale=en&layout=compact" alt="GauravRoy-20" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravRoy-20&show_icons=true&theme=dark&layout=compact"/>
      </td>
   </tr>
 </table>
